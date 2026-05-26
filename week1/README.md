@@ -37,9 +37,9 @@ By the end of this week you should be able to:
 | ByteByteGo YouTube — "Design Uber" episode | https://www.youtube.com/@ByteByteGo |
 | CAP Theorem Explained — Martin Kleppmann | https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html |
 
-### Recommended Book Chapter
-> **System Design Interview Vol. 1** — Alex Xu, *"Design Uber"* chapter.  
-> Read it before starting this week, then re-read after Week 9. It directly maps to this entire roadmap.
+### Recommended Book
+> **System Design Interview Vol. 1** — Alex Xu.  
+> Chapters 1–3 (scale, estimation, and the interview framework) are directly relevant this week. The book covers rate limiters, consistent hashing, key-value stores, and other distributed systems patterns you'll encounter throughout this roadmap.
 
 ---
 
