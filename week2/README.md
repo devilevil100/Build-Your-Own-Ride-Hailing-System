@@ -33,8 +33,6 @@ By the end of this week you should be able to:
 
 ## 🔗 Resources
 
-All links verified.
-
 | Resource | Link |
 |----------|------|
 | William Fiset — Graph Theory Playlist (YouTube) | https://youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P |
